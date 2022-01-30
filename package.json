@@ -1,0 +1,15 @@
+{
+  "name": "geth-private-key-dump",
+  "version": "1.0.0",
+  "description": "Dump a private key from a geth keystore",
+  "private": true,
+  "main": "dump.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keythereum": "=1.2.0"
+  }
+}
